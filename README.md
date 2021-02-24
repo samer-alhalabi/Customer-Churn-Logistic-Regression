@@ -1,1 +1,1 @@
-# Customer-Churn-Logistic-Regression
+# Logistic-Regression: Customer Churn
