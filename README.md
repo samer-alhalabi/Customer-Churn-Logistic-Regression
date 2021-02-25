@@ -2,7 +2,7 @@
 
 I will use a telecommunications dataset for predicting customer churn. This is a historical customer dataset where each row represents one customer. Typically it is less expensive to keep customers than acquire new ones, so the focus of this analysis is to predict the customers who will stay with the company.
 
-This dataset provides information to help predict what behaviors will help to retain customers. These kind of models typically help marketing divisions with planning the retention programs and provide promotions and offers to the targeted customers that predicted to leave the service. 
+These kind of models typically help marketing divisions with planning the retention programs and provide promotions and offers to the targeted customers that predicted to leave the service. 
 
 #### The dataset includes information about:
 - Customers who left within the last month – the column is called Churn
